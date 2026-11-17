@@ -1,8 +1,8 @@
 # makefun-btc-race-24h-20261117-0603
 
-[![make.fun](https://make.fun/bounty/btc-race-24h-20261117-0603/badge.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
-[![rank](https://make.fun/bounty/btc-race-24h-20261117-0603/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
-[![reward](https://make.fun/bounty/btc-race-24h-20261117-0603/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603)
+[![make.fun · btc-race-24h-20261117-0603](https://make.fun/badge/btc-race-24h-20261117-0603.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![rank](https://make.fun/badge/btc-race-24h-20261117-0603/slowlyor/makefun-btc-race-24h-20261117-0603/rank.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
+[![reward](https://make.fun/badge/btc-race-24h-20261117-0603/slowlyor/makefun-btc-race-24h-20261117-0603/reward.svg)](https://make.fun/bounty/btc-race-24h-20261117-0603?utm_source=github&utm_medium=readme&utm_campaign=btc-race-24h-20261117-0603)
 
 A dip-bounce trading bot for Coinbase Wrapped BTC (cbBTC) on 1-minute bars.
 It starts with $1,000 of paper USDC, long only. cbBTC is choppy minute to
